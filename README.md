@@ -11,16 +11,18 @@
 
 ## Paso 1. Clona el repositorio:
 
-git clone: https://github.com/Erre35/Cryptocurrency.git
+git clone https://github.com/Erre35/Cryptocurrency.git
 
 ## Paso2. Instala las dependencias:
 
 npm install
 
-## Paso3. Instala los pods de iOS (si aplica):
+## Paso3. Instala los pods de iOS:
 
 cd ios
+
 pod install
+
 cd .. 
 
 ## Paso4. Inicia el servidor de desarrollo:
@@ -44,7 +46,8 @@ npm run ios
 
 ## Preview de la app:
 
-![Funcionamiento en iOS](./src/utils/assets/iOS.gif)
+| Android | iOS |
+|---|---|
+| <img src="./src/utils/assets/Android.gif" alt="Funcionamiento en Android" width="300"> | <img src="./src/utils/assets/iOS.gif" alt="Funcionamiento en iOS" width="300"> |
 
-![Funcionamiento en Adroid](src/utils/assets/Android.gif)
 
