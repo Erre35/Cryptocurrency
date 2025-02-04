@@ -1,3 +1,16 @@
+# Cryptocurrency
+
+Aplicación móvil para visualizar información detallada de criptomonedas en tiempo real.
+
+
+## Tecnologías
+
+- React Native
+- TypeScript
+- Arquitectura: Clean Architecture
+- Enfoque/Metodología: Programación Orientada a Objetos (OOP)
+
+
 ## Versiones
 
 - React Native: 0.77.0
