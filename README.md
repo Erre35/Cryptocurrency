@@ -46,8 +46,8 @@ npm run ios
 
 ## Preview de la app:
 
-| Android | iOS |
+| iOS | Android |
 |---|---|
-| <img src="./src/utils/assets/Android.gif" alt="Funcionamiento en Android" width="300"> | <img src="./src/utils/assets/iOS.gif" alt="Funcionamiento en iOS" width="300"> |
+| <img src="./src/utils/assets/iOS.gif" alt="Funcionamiento en iOS" width="300"> | <img src="./src/utils/assets/Android.gif" alt="Funcionamiento en Android" width="300"> |
 
 
