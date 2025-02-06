@@ -78,7 +78,7 @@ git clone https://github.com/Erre35/Cryptocurrency.git
 
 npm install
 
-## Paso3. Instala los pods de iOS:
+## Paso3. Instala los pods de iOS (Si aplica):
 
 cd ios
 
