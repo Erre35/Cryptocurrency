@@ -19,7 +19,7 @@ Aplicación móvil para visualizar información detallada de criptomonedas en ti
 - npm: 10.9.2
 - Java: OpenJDK 17.0.14
 - Android Studio con un emulador de Android creado.
-- xCode con un emulador de iOS.
+- Xcode con un emulador de iOS.
 
 
 ## Cómo ejecutar la aplicación
