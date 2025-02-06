@@ -29,8 +29,11 @@ Aplicación móvil para visualizar información detallada de criptomonedas en ti
 - Luego de instalar java, configura las variables de entorno agragando las siguientes líneas al archivo ~/.zshrc o ~/.bashrc:
 
 export JAVA_HOME=$(/usr/libexec/java_home -v 17)
+
 export ANDROID_HOME=$HOME/Library/Android/sdk
+
 export PATH=$ANDROID_HOME/emulator:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools:$PATH
+
 
 - Aplica los cambios:
 
@@ -47,6 +50,7 @@ ANDROID_HOME: C:\Users\TU_USUARIO\AppData\Local\Android\sdk
 - Buscar la variable Path, editar y agregar:
 
 %ANDROID_HOME%\emulator
+
 %ANDROID_HOME%\platform-tools
 
 ## Linux
@@ -54,7 +58,9 @@ ANDROID_HOME: C:\Users\TU_USUARIO\AppData\Local\Android\sdk
 - Luego de instalar java, configura las variables de entorno agragando las siguientes líneas al ~/.bashrc o ~/.zshrc:
 
 export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
+
 export ANDROID_HOME=$HOME/Android/Sdk
+
 export PATH=$ANDROID_HOME/emulator:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools:$PATH
 
 - Aplica los cambios:
