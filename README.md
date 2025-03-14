@@ -53,6 +53,10 @@ ANDROID_HOME: C:\Users\TU_USUARIO\AppData\Local\Android\sdk
 
 %ANDROID_HOME%\platform-tools
 
+%ANDROID_HOME%\tools
+
+%ANDROID_HOME%\tools\bin
+
 ## Linux
 
 - Luego de instalar java, configura las variables de entorno agragando las siguientes líneas al ~/.bashrc o ~/.zshrc:
